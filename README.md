@@ -3,4 +3,4 @@
 ☯ Modules
 `npm install discord.js`
 
-Crie seus comandos em `commands` e seus eventos em `events`.
+Crie seus comandos na pasta `commands` e seus eventos na pasta `events`.
